@@ -1,0 +1,4 @@
+
+Voici  un code source de programme et son exécutable réalisé avec QT qui permet de contrôler un ARDRONE2 depuis un pc depuis un périphérique. Le programme utilise la librairie ffmpeg et permet la retransmission de la video du drone sur le pc (camera avant ou inférieure).
+Il est possible de configurer manuellement son périphérique et de paramétrer son drone (commande AT*config). Je fourni l'ensemble des codes sources avec la librairie ffmpeg et aussi une dll (et ses code source)pour utiliser le périphérique. Le retour des informations du drone n'est pas (encore) implémenté.
+Le programme est très modulable et peut permettre de base pour des applications plus complexes.
